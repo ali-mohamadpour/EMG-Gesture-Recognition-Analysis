@@ -73,7 +73,7 @@ You can try the code and run the analysis in Colab:
     ├── emg_cross_subject_classification.ipynb
     ├── emg_cross_subject_classification.py 
     ├── DB1/ 
-    │     └── dataset files (.mat)                #https://ninapro.hevs.ch/instructions/DB1.html subject 1-7
+    │     └── dataset files (.mat)             #https://ninapro.hevs.ch/instructions/DB1.html subject 1-7
     ├── img/    
     │     ├── results_accuracy.png
     │     └── confusion_matrix_S1.png               
