@@ -68,21 +68,13 @@ You can try the code and run the analysis in Colab:
 ---
 
 ## 📁 File Structure
+## 📁 File Structure
+
 EMG-Gesture-Recognition-Analysis/
-│
 ├── emg_cross_subject_classification.ipynb
 ├── img/
-│ ├── results_accuracy.png
-│ └── confusion_matrix_S1.png
+│   ├── results_accuracy.png
+│   └── confusion_matrix_S1.png
 ├── README.md
 └── DB1/
-│ ├── dataset files (.mat)
-
-
-EMG-Gesture-Recognition-Analysis/
-│
-├── emg_cross_subject_classification.ipynb
-├── results_accuracy.png
-├── confusion_matrix_S1.png
-├── README.md
-└── DB1/
+    └── dataset files (.mat)
