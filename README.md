@@ -72,7 +72,8 @@ EMG-Gesture-Recognition-Analysis/
 │
 ├── emg_cross_subject_classification.ipynb
 ├── img/
-        ├── results_accuracy.png
-        ├── confusion_matrix_S1.png
+│ ├── results_accuracy.png
+│ └── confusion_matrix_S1.png
 ├── README.md
 └── DB1/
+│ ├── dataset files (.mat)
